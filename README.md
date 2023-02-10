@@ -11,7 +11,7 @@
 
 Here is my basic blog using NextJS! [Click here to view](https://shaunak-blog.vercel.app/)
 
-![Blog Demo](public/images/profile.png)
+![Blog Demo](public/images/preview.gif)
 
 ## Notes
 
